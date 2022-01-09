@@ -1,0 +1,35 @@
+@import "antd/dist/antd.css";
+
+.Page-title {
+  font-size: 50px;
+  text-align: center;
+}
+
+.ant-upload {
+  display: block !important;
+  padding: 10px;
+  text-align: center;
+}
+
+.Image-show {
+  display: flex;
+  margin-top: 30px;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.Image-raw {
+  width: 600px;
+  border: 3px solid rgba(212, 207, 207, 0.671);
+  border-radius: 20px;
+}
+
+.Image-ocr {
+  width: 600px;
+  border: 3px solid rgba(212, 207, 207, 0.671);
+  border-radius: 20px;
+}
+
+.anticon-right-circle {
+  font-size: 60px;
+}
